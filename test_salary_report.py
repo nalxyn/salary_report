@@ -1,4 +1,3 @@
-# pytest test_salary_report.py -v
 import pytest
 from salary_report import process_file, generate_reports
 from unittest.mock import patch, mock_open
