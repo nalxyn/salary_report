@@ -1,5 +1,5 @@
 import pytest
-from salary_report import process_file, generate_reports
+from main import process_file, generate_reports
 from unittest.mock import patch, mock_open
 import tabulate
 
