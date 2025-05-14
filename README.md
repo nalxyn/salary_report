@@ -3,4 +3,4 @@
 
 запуск тестов: pytest test_salary_report.py -v
 
-![screenshot](https://github.com/user-attachments/assets/ef36dd1c-ee39-4d1f-aea5-1736443646e4)
+![screenshot](https://github.com/user-attachments/assets/96048771-90e2-4d57-a9d1-d48350ed9b95)
